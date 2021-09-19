@@ -1,0 +1,945 @@
+****************************************
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+ Patient Diagnosis: 
+The patient diagnosed with AnemiaThe patient is BleedingThe patient diagnosed with Iron DeficiencyPatient's Treatment: 
+Take twice a day  B12 pills(10 MG) for one month
+YOU NEED TO GO TO A HOSPITAL IMMEDIATLY!!!!!!
+Take twice a day  B12 pills(10 mg) for one month
+********************************************************************************
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+ Patient Diagnosis: 
+The patient diagnosed with Anemia
+The patient is Bleeding
+The patient diagnosed with Iron Deficiency
+Patient's Treatment: 
+Take twice a day  B12 pills(10 MG) for one month
+YOU NEED TO GO TO A HOSPITAL IMMEDIATLY!!!!!!
+Take twice a day  B12 pills(10 mg) for one month
+********************************************************************************
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+********************************************************************************
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+Niso i am healtyh!!!!
+********************************************************************************
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/26 17:31:29Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/26 17:32:39
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with dehydration
+The patient diagnosed with Infection
+The patient diagnosed with Kidney Disease
+The patient diagnosed with Muscle Disease
+ The patient diagnosed with Cancer
+The patient diagnosed with Eating Too much meat
+
+Patient's Treatment: 
+lie down and drink a lot
+A prescripction of antibiotics was sent to patient
+balance your sugar levels in blood stream
+take twice a day turmeric c3 (5mg) of altman's for a month
+Entrectinib
+Please schedule a meeting with a nutrision for further instructions
+********************************************************************************
+Visit Day and Time: 2021/05/26 17:44:17
+Patient name: Moran
+Patient age: 25
+Patient id: 318274677
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/26 18:00:27
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/26 18:00:51
+Patient name: Niso
+Patient age: 25
+Patient id: 204470199
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/26 18:08:40
+Patient name: sasha
+Patient age: 30
+Patient id: 26589181
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/27 00:55:07
+Patient name: Elad	
+Patient age: 30
+Patient id: 203142681
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/27 22:44:13
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Infection
+The patient diagnosed with Cancer
+
+Patient's Treatment: 
+Patient suspcted with Dehydration
+A prescripction of antibiotics was sent to patient
+Patient suspcted with a Blood Disease
+Entrectinib
+********************************************************************************
+Visit Day and Time: 2021/05/27 22:50:55
+Patient name: Moran
+Patient age: 25
+Patient id: 318274677
+
+Patient Diagnosis: 
+The patient diagnosed with Malnutrition
+
+Patient's Treatment: 
+Patient suspcted with blod loss
+Patient suspcted with Vitamin Deficiency
+Patient suspcted with a Gallpath Disease
+Patient suspcted with a Leaver Disease
+Patient suspcted with a Kidney Disease
+Patient suspcted with a Muscle Disease
+Patient suspcted with over consumption of meat
+Please schedule a meeting with a nutrision for further instructions
+********************************************************************************
+Visit Day and Time: 2021/05/27 22:57:50
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:00:03
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Malnutrition
+
+Patient's Treatment: 
+Patient suspcted with blod loss
+Patient suspcted with Vitamin Deficiency
+Patient suspcted with a Gallpath Disease
+Patient suspcted with a Leaver Disease
+Patient suspcted with a Kidney Disease
+Patient suspcted with a Muscle Disease
+Patient suspcted with over consumption of meat
+Please schedule a meeting with a nutrision for further instructions
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:11:28
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:11:33
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+//Dehydration
+Patient Diagnosis: 
+The patient diagnosed with Anemia
+The patient is Bleeding
+The patient diagnosed with dehydration
+The patient diagnosed with Infection
+The patient diagnosed with Blood Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Cancer
+The patient diagnosed with Malnutrition
+
+Patient's Treatment: 
+Anemia-Take twice a day  B12 pills(10 MG) for one month
+Bleeding-YOU NEED TO GO TO A HOSPITAL IMMEDIATLY!!!!!!
+Dehydraded-lie down and drink a lot
+Infection-A prescripction of antibiotics was sent to patient
+Blood Disease-You need a combined dose of Cyclophosphamide and Corticosteroids
+Leaver Disease-refferal for a specific diagnose
+Cancer-Entrectinib
+Malnutrition-Please schedule a meeting with a nutrision for further instructions
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:14:14
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:14:15
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Dehydration
+The patient diagnosed with Infection
+The patient diagnosed with Blood Disease
+The patient diagnosed with Cancer
+
+Patient's Treatment: 
+Dehydraded-lie down and drink a lot
+Infection-A prescripction of antibiotics was sent to patient
+Blood Disease-You need a combined dose of Cyclophosphamide and Corticosteroids
+Cancer-Entrectinib
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:16:21
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:16:29
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Dehydration
+The patient diagnosed with Infection
+The patient diagnosed with Blood Disease
+The patient diagnosed with Cancer
+
+Patient's Treatment: 
+Dehydraded-lie down and drink a lot
+Infection-A prescripction of antibiotics was sent to patient
+Blood Disease-You need a combined dose of Cyclophosphamide and Corticosteroids
+Cancer-Entrectinib
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:16:46
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Dehydration
+The patient diagnosed with Infection
+The patient diagnosed with Blood Disease
+The patient diagnosed with Cancer
+
+Patient's Treatment: 
+Dehydraded-lie down and drink a lot
+Infection-A prescripction of antibiotics was sent to patient
+Blood Disease-You need a combined dose of Cyclophosphamide and Corticosteroids
+Cancer-Entrectinib
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:17:00
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Dehydration
+The patient diagnosed with Infection
+The patient diagnosed with Blood Disease
+The patient diagnosed with Cancer
+
+Patient's Treatment: 
+Dehydraded-lie down and drink a lot
+Infection-A prescripction of antibiotics was sent to patient
+Blood Disease-You need a combined dose of Cyclophosphamide and Corticosteroids
+Cancer-Entrectinib
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:17:19
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Dehydration
+The patient diagnosed with Infection
+The patient diagnosed with Blood Disease
+The patient diagnosed with Cancer
+
+Patient's Treatment: 
+Dehydraded-lie down and drink a lot
+Infection-A prescripction of antibiotics was sent to patient
+Blood Disease-You need a combined dose of Cyclophosphamide and Corticosteroids
+Cancer-Entrectinib
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:19:01
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:19:26
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Dehydration
+The patient diagnosed with Infection
+The patient diagnosed with Blood Disease
+The patient diagnosed with Cancer
+
+Patient's Treatment: 
+Dehydraded-lie down and drink a lot
+Infection-A prescripction of antibiotics was sent to patient
+Blood Disease-You need a combined dose of Cyclophosphamide and Corticosteroids
+Cancer-Entrectinib
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:20:03
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:20:10
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:20:23
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:20:29
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Dehydration
+The patient diagnosed with Infection
+The patient diagnosed with Blood Disease
+The patient diagnosed with Cancer
+
+Patient's Treatment: 
+Dehydraded-lie down and drink a lot
+Infection-A prescripction of antibiotics was sent to patient
+Blood Disease-You need a combined dose of Cyclophosphamide and Corticosteroids
+Cancer-Entrectinib
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:20:40
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:20:51
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:20:56
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Dehydration
+The patient diagnosed with Infection
+The patient diagnosed with Blood Disease
+The patient diagnosed with Cancer
+
+Patient's Treatment: 
+Dehydraded-lie down and drink a lot
+Infection-A prescripction of antibiotics was sent to patient
+Blood Disease-You need a combined dose of Cyclophosphamide and Corticosteroids
+Cancer-Entrectinib
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:21:09
+Patient name: Moran
+Patient age: 25
+Patient id: 318274677
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:21:23
+Patient name: Moran
+Patient age: 25
+Patient id: 318274677
+
+Patient Diagnosis: 
+The patient is Smoking
+
+Patient's Treatment: 
+quit smoking!!!
+Patient suspcted with a Lungs Disease
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:24:50
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is Smoking
+
+Patient's Treatment: 
+quit smoking!!!
+Patient suspcted with a Lungs Disease
+********************************************************************************
+Visit Day and Time: 2021/05/27 23:26:03
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is Smoking
+
+Patient's Treatment: 
+Patient suspcted with Dehydration
+Patient suspcted with Infection
+Patient suspcted with a Blood Disease
+quit smoking!!!
+Patient suspcted with a Lungs Disease
+Patient suspcted with Cancer
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:38:45
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is Smoking
+
+Patient's Treatment: 
+quit smoking!!!
+Patient suspcted with a Lungs Disease
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:41:10
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:41:17
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:42:08
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is Smoking
+
+Patient's Treatment: 
+Patient suspcted with Dehydration
+Patient suspcted with Infection
+Patient suspcted with a Blood Disease
+quit smoking!!!
+Patient suspcted with a Lungs Disease
+Patient suspcted with Cancer
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:46:03
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is Smoking
+
+Patient's Treatment: 
+Patient suspcted with blood loss
+quit smoking!!!
+Patient suspcted with a Lungs Disease
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:49:22
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:49:44
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:49:45
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:50:20
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:50:26
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:50:49
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:55:31
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:55:46
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Gallpath Disease-reffaral to surgical treatment
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:55:46
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Gallpath Disease-reffaral to surgical treatment
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:57:02
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 00:57:15
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Gallpath Disease-reffaral to surgical treatment
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:00:49
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:00:50
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Gallpath Disease-reffaral to surgical treatment
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:00:54
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Gallpath Disease-reffaral to surgical treatment
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:00:55
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Gallpath Disease-reffaral to surgical treatment
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:00:55
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Gallpath Disease-reffaral to surgical treatment
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:00:56
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Gallpath Disease-reffaral to surgical treatment
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:00:57
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Gallpath Disease-reffaral to surgical treatment
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:00:58
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Gallpath Disease-reffaral to surgical treatment
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:00:59
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Gallpath Disease-reffaral to surgical treatment
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:01:00
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Gallpath Disease-reffaral to surgical treatment
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:01:53
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:02:16
+Patient name: Moran
+Patient age: 25
+Patient id: 318274677
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:04:01
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:04:09
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Gallpath Disease-reffaral to surgical treatment
+Leaver Disease-refferal for a specific diagnose
+Hyper Thyroid-Take Propylthiouracil to decrease Hyper Thyroid
+Drugs usage-refferal to family doctor for drug adjustment
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:04:44
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:05:02
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:05:04
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Dehydration
+The patient diagnosed with Infection
+The patient diagnosed with Blood Disease
+The patient diagnosed with Cancer
+
+Patient's Treatment: 
+Dehydraded-lie down and drink a lot
+Infection-A prescripction of antibiotics was sent to patient
+Blood Disease-You need a combined dose of Cyclophosphamide and Corticosteroids
+Cancer-Entrectinib
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:07:17
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:07:53
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient is healthy as a bull
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:09:20
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Gallpath Disease
+The patient diagnosed with Leaver Disease
+The patient diagnosed with Hyper Thyroid
+The patient Consumpting too many diffrent drugs
+
+Patient's Treatment: 
+Patient suspcted with a Gallpath Disease
+Patient suspcted with a Leaver Disease
+Patient suspcted with Hyper Thyroid
+Patient suspcted with consuming too many diffrent drugs
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:12:09
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Dehydration
+The patient diagnosed with Infection
+The patient diagnosed with Blood Disease
+The patient is Smoking
+The patient diagnosed with Lungs Disease
+The patient diagnosed with Cancer
+
+Patient's Treatment: 
+Patient suspcted with Dehydration
+Infection-A prescripction of antibiotics was sent to patient
+Patient suspcted with a Blood Disease
+quit smoking!!!
+Patient suspcted with a Lungs Disease
+Cancer-Entrectinib
+********************************************************************************
+Visit Day and Time: 2021/05/28 01:16:17
+Patient name: Boaz
+Patient age: 25
+Patient id: 204385413
+
+Patient Diagnosis: 
+The patient diagnosed with Dehydration
+The patient diagnosed with Infection
+The patient diagnosed with Blood Disease
+The patient is Smoking
+The patient diagnosed with Lungs Disease
+The patient diagnosed with Cancer
+
+Patient's Treatment: 
+Patient suspcted with Dehydration
+Infection-A prescripction of antibiotics was sent to patient
+Patient suspcted with a Blood Disease
+quit smoking!!!
+Patient suspcted with a Lungs Disease
+****************************************
